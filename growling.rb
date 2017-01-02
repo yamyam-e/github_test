@@ -1,4 +1,4 @@
 0.upto(9) do
-	puts "Grrrr!"
+	puts "yamyam-e world!"
 end
 
